@@ -1,0 +1,85 @@
+06/04/2019 11:11:26 a. m.	This log contains information about the import schema operation into project 'Database' on computer 'SOLUCIONESJB' by user 'SolucionesJB'.
+06/04/2019 11:11:26 a. m.	Import of database schema has started.
+06/04/2019 11:11:32 a. m.	Gathering database credentials
+06/04/2019 11:11:32 a. m.	Gathering database options
+06/04/2019 11:11:32 a. m.	Gathering generic database scoped configuration option
+06/04/2019 11:11:32 a. m.	Gathering users
+06/04/2019 11:11:32 a. m.	Gathering roles
+06/04/2019 11:11:32 a. m.	Gathering application roles
+06/04/2019 11:11:32 a. m.	Gathering role memberships
+06/04/2019 11:11:32 a. m.	Gathering filegroups
+06/04/2019 11:11:32 a. m.	Gathering full-text catalogs
+06/04/2019 11:11:32 a. m.	Gathering assemblies
+06/04/2019 11:11:32 a. m.	Gathering certificates
+06/04/2019 11:11:32 a. m.	Gathering asymmetric keys
+06/04/2019 11:11:32 a. m.	Gathering symmetric keys
+06/04/2019 11:11:32 a. m.	Gathering encrypted symmetric keys
+06/04/2019 11:11:32 a. m.	Gathering schemas
+06/04/2019 11:11:32 a. m.	Gathering XML schema collections
+06/04/2019 11:11:32 a. m.	Gathering user-defined data types
+06/04/2019 11:11:32 a. m.	Gathering user-defined types
+06/04/2019 11:11:32 a. m.	Gathering table types
+06/04/2019 11:11:32 a. m.	Gathering unique keys for table types
+06/04/2019 11:11:32 a. m.	Gathering primary keys for table types
+06/04/2019 11:11:32 a. m.	Gathering indexes for table types
+06/04/2019 11:11:32 a. m.	Gathering check constraints for table types
+06/04/2019 11:11:32 a. m.	Gathering default constraints for table types
+06/04/2019 11:11:32 a. m.	Gathering partition functions
+06/04/2019 11:11:32 a. m.	Gathering partition schemes
+06/04/2019 11:11:32 a. m.	Gathering functions
+06/04/2019 11:11:32 a. m.	Gathering encrypted functions
+06/04/2019 11:11:32 a. m.	Gathering aggregates
+06/04/2019 11:11:32 a. m.	Gathering procedures
+06/04/2019 11:11:32 a. m.	Gathering encrypted procedures
+06/04/2019 11:11:32 a. m.	Gathering tables
+06/04/2019 11:11:32 a. m.	Gathering primary keys
+06/04/2019 11:11:32 a. m.	Gathering unique constraints
+06/04/2019 11:11:32 a. m.	Gathering foreign keys
+06/04/2019 11:11:32 a. m.	Gathering default constraints
+06/04/2019 11:11:32 a. m.	Gathering check constraints
+06/04/2019 11:11:32 a. m.	Gathering views
+06/04/2019 11:11:32 a. m.	Gathering encrypted views
+06/04/2019 11:11:32 a. m.	Gathering indexes
+06/04/2019 11:11:32 a. m.	Gathering statistics
+06/04/2019 11:11:32 a. m.	Gathering full-text index stoplists
+06/04/2019 11:11:32 a. m.	Gathering search property lists
+06/04/2019 11:11:32 a. m.	Gathering search properties
+06/04/2019 11:11:32 a. m.	Gathering full-text indexes
+06/04/2019 11:11:32 a. m.	Gathering column store indexes
+06/04/2019 11:11:32 a. m.	Gathering spatial indexes
+06/04/2019 11:11:32 a. m.	Gathering XML indexes
+06/04/2019 11:11:32 a. m.	Gathering Selective XML indexes
+06/04/2019 11:11:33 a. m.	Gathering encrypted triggers
+06/04/2019 11:11:33 a. m.	Gathering triggers
+06/04/2019 11:11:33 a. m.	Gathering encrypted and clr ddl triggers
+06/04/2019 11:11:33 a. m.	Gathering ddl triggers
+06/04/2019 11:11:33 a. m.	Gathering synonyms
+06/04/2019 11:11:33 a. m.	Gathering defaults
+06/04/2019 11:11:33 a. m.	Gathering data constraint uddt bindings
+06/04/2019 11:11:33 a. m.	Gathering rules
+06/04/2019 11:11:33 a. m.	Gathering data constraint uddt bindings
+06/04/2019 11:11:33 a. m.	Gathering message types
+06/04/2019 11:11:33 a. m.	Gathering queues
+06/04/2019 11:11:33 a. m.	Gathering contracts
+06/04/2019 11:11:33 a. m.	Gathering services
+06/04/2019 11:11:33 a. m.	Gathering event notifications
+06/04/2019 11:11:33 a. m.	Gathering remote service bindings
+06/04/2019 11:11:33 a. m.	Gathering broker priorities
+06/04/2019 11:11:33 a. m.	Gathering signatures
+06/04/2019 11:11:33 a. m.	Gathering data compression options
+06/04/2019 11:11:33 a. m.	Gathering sequence types
+06/04/2019 11:11:33 a. m.	Gathering security policies
+06/04/2019 11:11:33 a. m.	Gather column encryption keys
+06/04/2019 11:11:33 a. m.	Gathering column master keys
+06/04/2019 11:11:33 a. m.	Gathering external data sources
+06/04/2019 11:11:33 a. m.	Gathering external file formats
+06/04/2019 11:11:33 a. m.	Gathering external tables
+06/04/2019 11:11:33 a. m.	Gathering extended properties
+06/04/2019 11:11:33 a. m.	Gathering credentials
+06/04/2019 11:11:33 a. m.	Gathering logins
+06/04/2019 11:11:33 a. m.	Gathering server audits
+06/04/2019 11:11:33 a. m.	Scanning project for duplicate elements
+06/04/2019 11:11:33 a. m.	Finished duplicate element processing
+06/04/2019 11:11:33 a. m.	Finished importing database.
+06/04/2019 11:11:33 a. m.	A summary of the import was saved to the following location: D:\DesarrolloTest\CdmxContamination\Database\Import Schema Logs\Database_20190406051126.log
+06/04/2019 11:11:33 a. m.	Click Finish to continue...
